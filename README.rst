@@ -1,4 +1,4 @@
-Website for phpMyAdmin
+Website for phpMyAdmin (Made by the coder)
 ======================
 
 Django code for phpMyAdmin's website.
